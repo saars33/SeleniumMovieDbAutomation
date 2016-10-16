@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ProjectDeliverablesSuite">
+    <test name="MyProjectDeliverablesTest1">
+        <classes>
+            <class name="com.moviedb.testautomation.tests.ProjectDeliverablesTest1"/>
+        </classes>
+    </test>
+
+    <test name="MyProjectDeliverablesTest2">
+        <classes>
+            <class name="com.moviedb.testautomation.tests.ProjectDeliverablesTest2"/>
+        </classes>
+    </test>
+
+</suite>
