@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SeleniumMovieDbAutomation.iml" filepath="$PROJECT_DIR$/SeleniumMovieDbAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java.iml" filepath="$PROJECT_DIR$/src/main/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
     </modules>
   </component>
